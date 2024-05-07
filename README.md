@@ -9,6 +9,8 @@ The dataset comprises vehicle trip data stored in two Pickle files, which includ
 ## Installation and Setup 🛠️
 Ensure you have Python 3.x installed, then clone the repository and set up the environment:
 
-
+## Methods for Imputation 🔍
+* Location-based Imputation: Uses geographical proximity to estimate missing values.
+* Temporal Interpolation: Employs time-series predictions to fill gaps.
 
 
