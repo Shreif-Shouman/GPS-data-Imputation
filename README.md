@@ -13,4 +13,8 @@ Ensure you have Python 3.x installed, then clone the repository and set up the e
 * Location-based Imputation: Uses geographical proximity to estimate missing values.
 * Temporal Interpolation: Employs time-series predictions to fill gaps.
 
+## Visualization 🗺️
+We use Folium for mapping data points geographically.
 
+## License 📄
+This project is licensed under the MIT License - see the LICENSE file for details.
