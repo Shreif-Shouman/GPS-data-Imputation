@@ -1,7 +1,7 @@
 # GPS Data Imputation 🌍
 
 ## Project Overview 📖
-This project tackles the challenge of missing GPS data from vehicle trips within Austria 🇦🇹. Our goal is to enhance the granularity and accuracy of this real-world dataset through sophisticated imputation methods.
+This project tackles the challenge of missing GPS data from vehicle trips within Austria. Our goal is to enhance the granularity and accuracy of this real-world dataset through sophisticated imputation methods.
 
 ## Dataset Description 📊
 The dataset comprises vehicle trip data stored in two Pickle files, which includes locations, times, and various other metrics. We handle missing entries that are common in real-world data scenarios, improving reliability and usability.
